@@ -38,6 +38,7 @@ This game was built collaboratively for the Fall 2026 GameJam at [**ACM @ UIC**:
 
 
 ## Technical Specs
+* **Constraints:** 3 Hours per contributor allowed (Async across 3 weeks)
 * **Engine & Language:** Godot, Gdscript
 * **Other Tools Used:**
   * Aseprite (Art)
@@ -55,8 +56,19 @@ The ball spawns in and the player clicks anywhere on the screen to hit the golfb
 
 ## Key Reflections
 There are a few key points/reflections regarding the development of this game and the repo:
-* 
+* **Time Limit:**
+  * Being able to only work an hour a week across 3 meetings was challenging
+  * As a result, many features (Like a hit direction indicator) had to be cut
+* **Godot From Unity:**
+  * Transitioning from Unity 2D to Godot was a decent learning curve
+  * Despite that, Godot is still fairly easy to learn
+  * GDScript is a very easy language to work with as it is very similar to Python
+  * Many things, such as signals/events, were much easier to implement
+* **The Contents of This Repo:**
+  * Only the scripts I (Aayan Naqvi) created are in this repo
+  * All other scripts, and art are omitted from this repo in respect for my teammates and to keep the repo lightweight
 
 ## Conclusion
+As my first Game Jam, this was very fun to work on! The jump from Unity to Godot was a decent one, but I still enjoyed every step of it! Thank you for checking out this repo!
 
 
