@@ -51,8 +51,14 @@ This game was built collaboratively for the Fall 2026 GameJam at [**ACM @ UIC**:
 * **Repository Scope:** Gdscript source scripts (`Scripts/`) and documentation (`README.md`).
 
 ## General Gameplay
-The ball spawns in and the player clicks anywhere on the screen to hit the golfball forward. The direction and force applied to the ball is based on the mouse cursor's position relative to the golfball. Each hit increases the counter on the left. Once the ball goes into the hole (the flag), the hits reset to 0 and the player advances to the next level.
+The ball spawns in and the player clicks anywhere on the screen to hit the golfball forward. The direction and force applied to the ball is based on the mouse cursor's position relative to the golfball. Each hit increases the counter on the left. Once the ball goes into the hole (the flag), the hits reset to 0 and the player advances to the next level. Here is a short gameplay video:
 
+[Media/Golf Silent Gameplay-compressed.mp4](https://github.com/user-attachments/assets/a67d7008-4c0b-4ad8-956a-8fd7c81160a3)
+<div align="center">
+  <sub><I>[Short Gameplay Footage]</i></sub>
+  <br/>
+</div>
+<br/>
 
 ## Key Reflections
 There are a few key points/reflections regarding the development of this game and the repo:
