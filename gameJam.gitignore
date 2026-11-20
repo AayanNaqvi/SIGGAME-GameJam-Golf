@@ -1,0 +1,10 @@
+# Godot cache & sidecar files
+.godot/
+*.uid
+*.import
+export.cfg
+export_presets.cfg
+
+# macOS / Windows clutter
+.DS_Store
+Thumbs.db
