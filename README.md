@@ -16,6 +16,7 @@
 
 ## Table of Contents
 * [Overview](#overview)
+* [Contributors](#contributors-and-my-role)
 * [Technical Specs](#technical-specs)
 * [General Gameplay Showcase](#general-gameplay)
 * [Key Reflections](#key-reflections)
