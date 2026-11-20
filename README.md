@@ -9,7 +9,6 @@
 
 <br/>
 
-
 ![Godot Engine](https://img.shields.io/badge/Godot-4.x-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![GDScript](https://img.shields.io/badge/Language-GDScript-355570?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Game_Jam_Build-4c1?style=for-the-badge)
@@ -21,7 +20,6 @@
 * [General Gameplay Showcase](#general-gameplay)
 * [Key Reflections](#key-reflections)
 * [Conclusion](#conclusion)
-
 
 ## Overview
 Created for a the SIGGAME @ UIC Fall 2026 GameJam, this Godot project sets out to recreate mini-golf.
@@ -35,7 +33,6 @@ This game was built collaboratively for the Fall 2026 GameJam at [**ACM @ UIC**:
 * **[@Bjimen](https://github.com/bjimen)** (Programmer)
 * **[@mooonn004](https://github.com/mooonn004)**(Main Sprite Artist)
 * **[lukedeany](https://github.com/lukedeany)**(GameJam Host)
-
 
 ## Technical Specs
 * **Constraints:** 3 Hours per contributor allowed (Async across 3 weeks)
