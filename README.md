@@ -34,6 +34,7 @@ This game was built collaboratively for the Fall 2026 GameJam at [**ACM @ UIC**:
 * **Aayan Naqvi:** (Programmer & Sprite Artist)
 * **[@Bjimen](https://github.com/bjimen)** (Programmer)
 * **[@mooonn004](https://github.com/mooonn004)**(Main Sprite Artist)
+* **[lukedeany](https://github.com/lukedeany)**(GameJam Host)
 
 
 ## Technical Specs
