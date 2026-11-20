@@ -1,5 +1,14 @@
-# SIGGAME GAMEJAM GOLF
+# SIGGAME Fall 26 GameJam: GOLF
 ### 2D Mini-Golf Game
+
+<div align="center">
+  <img src="Golf ScreenShot.png" width="650" />
+  <br/>
+  <sub><I>[Screenshot from the project]</i></sub>
+</div>
+
+<br/>
+
 
 ![Godot Engine](https://img.shields.io/badge/Godot-4.x-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![GDScript](https://img.shields.io/badge/Language-GDScript-355570?style=for-the-badge&logo=godot-engine&logoColor=white)
